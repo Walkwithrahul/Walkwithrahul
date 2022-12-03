@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Walkwithrahul
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me @devendrasinghbhadoriya@gmail.com
+- 📫 How to reach me @devendrasinghbhadoriya2@gmail.com
 
 <!---
 Walkwithrahul/Walkwithrahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
