@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Walkwithrahul
+- 👋 Hi, I’m devendra
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me @devendrasinghbhadoriya2@gmail.com
